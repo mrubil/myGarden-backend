@@ -1,2 +1,2 @@
-# WR_app_backend
+# myGarden-backend
 Backend web aplikacije
